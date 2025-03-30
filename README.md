@@ -1,5 +1,3 @@
-## Olá pessoas! 🤟
-
 <h2 align="left">Bom dia, Boa tarde e Boa noite! 🤟</h2>
 
 ###
