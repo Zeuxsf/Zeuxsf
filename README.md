@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Eu estudo programação desde Janeiro de 2025<br>📚 Minha linguagem preferida até o momento é Python<br>🎯 Tenho Objetivos Ambiciosos<br>🎲 Jogo favorito: Cyberpunk 2077</p>
+<p align="left">✨ Eu estudo programação desde Janeiro de 2025<br>📚 Minha linguagem preferida até o momento é Python<br>🎯 Tenho Objetivos Ambiciosos: Projetos Com IA e +<br>🎲 Jogo favorito: Cyberpunk 2077</p>
 
 ###
 
