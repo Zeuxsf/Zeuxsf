@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Olá, eu sou o Alexandre!</p>
+<p align="left">Olá, eu sou o Alexandre! Sou desenvolvedor Python com foco em automação e desenvolvimento de sistemas práticos. Tenho experiência com projetos pessoais voltados para resolver problemas reais, usando tecnologias como Python e MySQL. 
+
+Atualmente, estou aprofundando meus conhecimentos em back-end e bancos de dados, com foco em tornar meu código mais limpo, funcional e profissional. Busco uma oportunidade onde eu possa aplicar minhas habilidades, aprender com outros desenvolvedores e contribuir de forma concreta em soluções digitais.
+
+Também possuo experiência anterior com atendimento ao cliente, o que me ajudou a desenvolver habilidades de comunicação, organização e trabalho em equipe. Estou aberto a novos desafios e oportunidades que me permitam crescer na área de tecnologia.</p>
 
 ###
 
