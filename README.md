@@ -1,30 +1,26 @@
-<h1 align="left">E aí? como vai?</h1>
+<h2 align="left">Alexandre</h2>
 
-###
+<p align="left">
+  Desenvolvedor back-end com foco em Python e automação.<br>
+  Gosto de resolver problemas reais com código simples e direto.
+</p>
 
-<p align="left">Olá, eu sou o Alexandre! Sou desenvolvedor Python com foco em automação e desenvolvimento de sistemas práticos.</p>
+---
 
-###
-
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">✨ Eu estudo programação desde Janeiro de 2025<br>📚 Minha linguagem preferida até o momento é Python<br>🎯 Tenho Objetivos Ambiciosos: Projetos com IA, Soluções para problemas reais e muito +<br>🎲 Jogo favorito: Cyberpunk 2077</p>
-
-###
-
-<h2 align="left">Eu programo com:</h2>
-
-###
+**Stack**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="SQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
 </div>
 
+---
 
-###
+*Grow, don't build.*
