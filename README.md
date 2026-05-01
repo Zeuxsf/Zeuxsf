@@ -1,7 +1,7 @@
 <h2 align="left">Alexandre</h2>
 
 <p align="left">
-  Desenvolvedor back-end com foco em Python e automação.<br>
+  Desenvolvedor back-end com foco em Python, automação e visão computacional.<br>
   Gosto de resolver problemas reais com código simples e direto.
 </p>
 
